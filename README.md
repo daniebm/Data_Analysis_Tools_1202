@@ -14,54 +14,20 @@ For this case, the Anaconda platform must be downloaded, from where we will acce
 ### Prerequisites
 
 It is important to have installed the following Packages:
-1. Python
-2. Anacoonda
+1. Excel (Visulize the data)
+2. Python
+3. Anacoonda
    2.1 Jupiter Notebook
 
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+For the installation of the aforementioned packages, it can be done easily from the web page of each of the tools, the installation is very intuitive, so the process will be easy to carry out.
 
 ## Deployment
 
-
 ## Authors
 
-* **Daniel Burgos** - *Data Analyst*  https://github.com/daniebm
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Daniel Burgos** - *Data Analyst*  [Daniel Burgos](https://github.com/daniebm)
 
 ## License
 
@@ -69,6 +35,4 @@ This project is from an open source, so it can be used for any purpose.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Thanks to the YouTube authorities for publishing the data exemplified in this project.
