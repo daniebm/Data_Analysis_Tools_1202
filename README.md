@@ -16,8 +16,7 @@ For this case, the Anaconda platform must be downloaded, from where we will acce
 It is important to have installed the following Packages:
 1. Excel (Visulize the data)
 2. Python
-3. Anacoonda
-   2.1 Jupiter Notebook
+3. Anacoonda (Jupiter Notebook)
 
 
 ### Installing
@@ -27,7 +26,7 @@ For the installation of the aforementioned packages, it can be done easily from 
 
 ## Authors
 
-* **Daniel Burgos** - *Data Analyst*  [Daniel Burgos](https://github.com/daniebm)
+* **[Daniel Burgos](https://github.com/daniebm)** - *Data Analyst*  
 
 ## License
 
